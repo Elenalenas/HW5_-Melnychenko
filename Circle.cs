@@ -9,7 +9,7 @@ namespace HW5__Melnychenko
         public string GetName => "Circle2";
         public override void GetArea()
         {
-            Console.WriteLine("Area is 222");
+            Console.WriteLine("Area is 20");
         }
     }
 }
