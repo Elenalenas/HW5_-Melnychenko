@@ -6,7 +6,7 @@ namespace HW5__Melnychenko
 {
     internal class Circle : Shape
     {
-        public string GetName => "Circle";
+        public string GetName => "Circle2";
         public override void GetArea()
         {
             Console.WriteLine("Area is 25");
